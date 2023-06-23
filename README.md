@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 React Developer, Front-end Engineer, Software Engineer
 ------------------------------------------------------
 
-An electronic systems graduate and React developer that works well in teams or autonomously, learns new technologies quickly, and has experience creating mobile optimized, responsive web applications using JavaScript frameworks with a well-thought-out user experience (UX), as well as programming microcontrollers.
+An experienced React developer with a strong background in creating mobile-optimized, responsive web applications using JavaScript frameworks. Skilled in collaborating with teams and working independently, quickly learning new technologies and incorporating thoughtful modern UX design into projects.
 
 *   🌍  I'm based in Texas
 *   🖥️  See my portfolio at [dannyharris.info](http://dannyharris.info)
