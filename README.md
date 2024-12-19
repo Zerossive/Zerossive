@@ -9,7 +9,7 @@ React Developer, Front-end Engineer, Software Engineer
 An experienced React developer with a strong background in creating mobile-optimized, responsive web applications using JavaScript frameworks. Skilled in collaborating with teams and working independently, quickly learning new technologies and incorporating thoughtful modern UX design into projects.
 
 *   🌍  I'm based in Texas
-*   🖥️  See my portfolio at [dannyharris.info](http://dannyharris.info)
+*   🖥️  See my portfolio at [dannyharris.dev](http://dannyharris.dev)
 *   🚀  I'm currently working on [KNB Racing](http://knbracing.com)
 
 ### Skills 
