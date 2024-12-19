@@ -10,7 +10,7 @@ An experienced React developer with a strong background in creating mobile-optim
 
 *   🌍  I'm based in Texas
 *   🖥️  See my portfolio at [dannyharris.dev](http://dannyharris.dev)
-*   🚀  I'm currently working on [KNB Racing](http://knbracing.com)
+*   🚀  I'm currently working on [Freelance Web Dev](https://youneedawebsite.netlify.app)
 
 ### Skills 
 
