@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Danny
 ====================================================================================================================================
 
-![LI Banner V2](https://github.com/user-attachments/assets/e38f4ad1-b855-4bf0-8451-76d545f1a78d)
+![LI Banner V3](https://github.com/user-attachments/assets/ae003b98-bdcc-4aaa-be15-89c47682b2d3)
 
 React Developer, Front-end Engineer, Software Engineer
 ------------------------------------------------------
